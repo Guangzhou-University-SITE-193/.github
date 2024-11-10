@@ -26,6 +26,8 @@
 
 ### 💻This is our site: GZHU-SITE-193!
 
+https://guangzhou-university-site-193.github.io/GZHU-SITE/
+
 ![SITEPOST](https://free-img.400040.xyz/4/2024/11/08/672d6814126cd.jpg)
 
 
