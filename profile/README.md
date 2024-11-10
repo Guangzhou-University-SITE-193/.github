@@ -26,12 +26,10 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
 ### 📋 成员列表
-<div class="github-card" data-github="Zhongye1" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
-<div class="github-card" data-github="zhongye1" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
