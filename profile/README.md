@@ -25,99 +25,49 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
-### 📋 成员列表
-
-
-## Contributors ✨
+## Contributors 📋
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <style>
-    .contributor-card {
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgb(46 46 46 / 36%);
-      margin: 10px;
-      padding: 15px;
-      width: 282px;
-      text-align: center;
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-    .contributor-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-    }
-    .contributor-card img {
-      border-radius: 50%;
-      width: 100px;
-      height: 100px;
-      margin-bottom: 10px;
-    }
-    .contributor-card h3 {
-      font-size: 16px;
-      margin: 0;
-    }
-    .contributor-card p {
-      margin: 5px 0;
-    }
-    .contributor-card a {
-      color: #0073bb;
-      text-decoration: none;
-    }
-    .contributor-card a:hover {
-      text-decoration: underline;
-    }
-    .contributor-info {
-      font-size: 12px;
-      color: #666;
-    }
-  </style>
-  <div class="contributor-card">
-    <a href="https://github.com/Zhongye1">
-      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" />
-      <h3>Gotoh Hitori</h3>
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
+    <a href="https://github.com/Zhongye1" style="color: #0073bb; text-decoration: none;">
+      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
+      <h3 style="font-size: 16px; margin: 0;">Gotoh Hitori</h3>
     </a>
-    <p class="contributor-info">
-      GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a><br />
+    <p style="margin: 5px 0; font-size: 12px; color: #666;">
+      GitHub: <a href="https://github.com/Zhongye1" style="color: #0073bb; text-decoration: none;">@Zhongye1</a><br />
       Contributions: Code 💻, Documentation 📖
     </p>
   </div>
-  <div class="contributor-card">
-    <a href="https://github.com/8023time">
-      <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" />
-      <h3>8023time</h3>
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
+    <a href="https://github.com/8023time" style="color: #0073bb; text-decoration: none;">
+      <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
+      <h3 style="font-size: 16px; margin: 0;">8023time</h3>
     </a>
-    <p class="contributor-info">
-      GitHub: <a href="https://github.com/8023time">@8023time</a><br />
+    <p style="margin: 5px 0; font-size: 12px; color: #666;">
+      GitHub: <a href="https://github.com/8023time" style="color: #0073bb; text-decoration: none;">@8023time</a><br />
       Contributions: Documentation 📖
     </p>
   </div>
-  <div class="contributor-card">
-    <a href="https://github.com/arianna-h">
-      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" />
-      <h3>Jianxuan Zhou</h3>
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
+    <a href="https://github.com/arianna-h" style="color: #0073bb; text-decoration: none;">
+      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
+      <h3 style="font-size: 16px; margin: 0;">Jianxuan Zhou</h3>
     </a>
-    <p class="contributor-info">
-      GitHub: <a href="https://github.com/arianna-h">@arianna-h</a><br />
+    <p style="margin: 5px 0; font-size: 12px; color: #666;">
+      GitHub: <a href="https://github.com/arianna-h" style="color: #0073bb; text-decoration: none;">@arianna-h</a><br />
       Contributions: Code 💻, Documentation 📖
     </p>
   </div>
-  <div class="contributor-card">
-    <a href="https://github.com/LF12306">
-      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" />
-      <h3>yediao</h3>
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
+    <a href="https://github.com/LF12306" style="color: #0073bb; text-decoration: none;">
+      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
+      <h3 style="font-size: 16px; margin: 0;">yediao</h3>
     </a>
-    <p class="contributor-info">
-      GitHub: <a href="https://github.com/LF12306">@LF12306</a><br />
+    <p style="margin: 5px 0; font-size: 12px; color: #666;">
+      GitHub: <a href="https://github.com/LF12306" style="color: #0073bb; text-decoration: none;">@LF12306</a><br />
       Contributions: Documentation 📖
     </p>
   </div>
