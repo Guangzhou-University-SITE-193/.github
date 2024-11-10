@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <br />
           <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
           <br />
-          Contributions: Code 💻, Documentation 📖
+          Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
