@@ -29,49 +29,55 @@
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+## 贡献者
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
-    <a href="https://github.com/Zhongye1" style="color: #0073bb; text-decoration: none;">
-      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
-      <h3 style="font-size: 16px; margin: 0;">Gotoh Hitori</h3>
-    </a>
-    <p style="margin: 5px 0; font-size: 12px; color: #666;">
-      GitHub: <a href="https://github.com/Zhongye1" style="color: #0073bb; text-decoration: none;">@Zhongye1</a><br />
-      Contributions: Code 💻, Documentation 📖
-    </p>
-  </div>
-  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
-    <a href="https://github.com/8023time" style="color: #0073bb; text-decoration: none;">
-      <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
-      <h3 style="font-size: 16px; margin: 0;">8023time</h3>
-    </a>
-    <p style="margin: 5px 0; font-size: 12px; color: #666;">
-      GitHub: <a href="https://github.com/8023time" style="color: #0073bb; text-decoration: none;">@8023time</a><br />
-      Contributions: Documentation 📖
-    </p>
-  </div>
-  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
-    <a href="https://github.com/arianna-h" style="color: #0073bb; text-decoration: none;">
-      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
-      <h3 style="font-size: 16px; margin: 0;">Jianxuan Zhou</h3>
-    </a>
-    <p style="margin: 5px 0; font-size: 12px; color: #666;">
-      GitHub: <a href="https://github.com/arianna-h" style="color: #0073bb; text-decoration: none;">@arianna-h</a><br />
-      Contributions: Code 💻, Documentation 📖
-    </p>
-  </div>
-  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36); margin: 10px; padding: 15px; width: 282px; text-align: center; transition: transform 0.2s, box-shadow 0.2s;">
-    <a href="https://github.com/LF12306" style="color: #0073bb; text-decoration: none;">
-      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" />
-      <h3 style="font-size: 16px; margin: 0;">yediao</h3>
-    </a>
-    <p style="margin: 5px 0; font-size: 12px; color: #666;">
-      GitHub: <a href="https://github.com/LF12306" style="color: #0073bb; text-decoration: none;">@LF12306</a><br />
-      Contributions: Documentation 📖
-    </p>
-  </div>
-  <!-- 更多贡献者卡片可以按照上述格式添加 -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Zhongye1">
+          <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" width="100" height="100" />
+          <br />
+          <strong>Gotoh Hitori</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a></em>
+          <br />
+          Contributions: Code 💻, Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/8023time">
+          <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" width="100" height="100" />
+          <br />
+          <strong>8023time</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/8023time">@8023time</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/arianna-h">
+          <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" width="100" height="100" />
+          <br />
+          <strong>Jianxuan Zhou</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
+          <br />
+          Contributions: Code 💻, Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LF12306">
+          <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" width="100" height="100" />
+          <br />
+          <strong>yediao</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/LF12306">@LF12306</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
