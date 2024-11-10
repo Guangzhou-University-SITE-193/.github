@@ -32,6 +32,10 @@
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -41,16 +45,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     .contributor-card {
       background-color: white;
       border-radius: 10px;
-      box-shadow: 0 4px 8px rgb(46 46 46 / 36%);
+      box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36);
       margin: 10px;
       padding: 15px;
       width: 282px;
       text-align: center;
-      transition: transform 0.2s, box-shadow 0.2s;
+      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+      border: 1px solid #ccc;
     }
     .contributor-card:hover {
       transform: translateY(-5px);
-      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      border-color: #0073bb;
     }
     .contributor-card img {
       border-radius: 50%;
@@ -77,16 +83,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       color: #666;
     }
   </style>
-    <div class="contributor-card">
-      <a href="https://github.com/Zhongye1">
-        <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" />
-        <h3>Gotoh Hitori</h3>
-      </a>
-      <p class="contributor-info">
-        GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a><br />
-        Contributions: Code 💻, Documentation 📖
-      </p>
-    </div>
+  <div class="contributor-card">
+    <a href="https://github.com/Zhongye1">
+      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Gotoh Hitori" />
+      <h3>Gotoh Hitori</h3>
+    </a>
+    <p class="contributor-info">
+      GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a><br />
+      Contributions: Code 💻, Documentation 📖
+    </p>
+  </div>
   <div class="contributor-card">
     <a href="https://github.com/8023time">
       <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" />
@@ -99,7 +105,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </div>
   <div class="contributor-card">
     <a href="https://github.com/arianna-h">
-      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" />
+      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jianxuan Zhou" />
       <h3>Jianxuan Zhou</h3>
     </a>
     <p class="contributor-info">
@@ -109,7 +115,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </div>
   <div class="contributor-card">
     <a href="https://github.com/LF12306">
-      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" />
+      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="yediao" />
       <h3>yediao</h3>
     </a>
     <p class="contributor-info">
@@ -122,5 +128,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
 
