@@ -45,18 +45,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     .contributor-card {
       background-color: white;
       border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(46, 46, 46, 0.36);
+      box-shadow: 0 4px 8px rgb(46 46 46 / 36%);
       margin: 10px;
       padding: 15px;
       width: 282px;
       text-align: center;
-      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
-      border: 1px solid #ccc;
+      transition: transform 0.2s, box-shadow 0.2s;
     }
     .contributor-card:hover {
       transform: translateY(-5px);
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-      border-color: #0073bb;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     }
     .contributor-card img {
       border-radius: 50%;
@@ -85,7 +83,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </style>
   <div class="contributor-card">
     <a href="https://github.com/Zhongye1">
-      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Gotoh Hitori" />
+      <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" />
       <h3>Gotoh Hitori</h3>
     </a>
     <p class="contributor-info">
@@ -105,7 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </div>
   <div class="contributor-card">
     <a href="https://github.com/arianna-h">
-      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jianxuan Zhou" />
+      <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" />
       <h3>Jianxuan Zhou</h3>
     </a>
     <p class="contributor-info">
@@ -115,7 +113,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </div>
   <div class="contributor-card">
     <a href="https://github.com/LF12306">
-      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="yediao" />
+      <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" />
       <h3>yediao</h3>
     </a>
     <p class="contributor-info">
@@ -123,9 +121,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       Contributions: Documentation 📖
     </p>
   </div>
-  <!-- 添加更多贡献者卡片... -->
+  <!-- 更多贡献者卡片可以按照上述格式添加 -->
 </div>
-
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
