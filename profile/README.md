@@ -92,3 +92,10 @@ Thanks goes to these wonderful people:
 ### 关注站长博客！
 友链 https://zhongye1.github.io
 RSS订阅: https://zhongye1.github.io/atom.xml
+
+### 加入我们！
+
+https://github.com/Guangzhou-University-SITE-193
+
+我们正在筹备校园站点的建设计划！
+
