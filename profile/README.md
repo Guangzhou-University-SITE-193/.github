@@ -44,7 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/8023time">
+        <a "https://github.com/8023time">
           <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" width="100" height="100" />
           <br />
           <strong>8023time</strong>
@@ -55,7 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/arianna-h">
+        <a "https://github.com/arianna-h">
           <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" width="100" height="100" />
           <br />
           <strong>Jianxuan Zhou</strong>
@@ -66,7 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/LF12306">
+        <a "https://github.com/LF12306">
           <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" width="100" height="100" />
           <br />
           <strong>yediao</strong>
