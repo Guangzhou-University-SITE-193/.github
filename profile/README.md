@@ -34,13 +34,6 @@
 
 <div class="github-card" data-github="zhongye1" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
-
 <style>
     .github-card-container {
     display: flex;
