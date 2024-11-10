@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
-
+<div>
 <div class="github-card" data-github="zhongye1" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <style>
@@ -41,7 +41,6 @@
     align-items: center;
     margin: 20px 0; /* 上下边距 */
 }
-
 .github-card {
     width: 400px;
     height: 200px;
@@ -51,9 +50,9 @@
     background-color: #fff; /* 背景颜色 */
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* 动画效果 */
 }
-
 .github-card:hover {
     transform: translateY(-5px); /* 鼠标悬停时上移 */
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* 鼠标悬停时阴影加深 */
 }
 </style>
+</div>
