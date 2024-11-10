@@ -84,6 +84,17 @@ Thanks goes to these wonderful people:
           Contributions: Documentation 📖
         </a>
       </td>
+          <td align="center">
+        <a "https://github.com/ltzu929">
+          <img src="https://avatars.githubusercontent.com/u/184350138?v=4" alt="Milind Modi" width="100" height="100" />
+          <br />
+          <strong>ltzu929</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/ltzu929">@ltzu929</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
     </tr>
   </table>
 </div>
