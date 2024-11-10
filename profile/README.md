@@ -3,7 +3,7 @@
 
 
 [![WeChat](https://img.shields.io/badge/-GZHU--program-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
-[![email](https://img.shields.io/badge/-zhongye@e.gzhu.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](zhongye@e.gzhu.edu.cn)
+[![email](https://img.shields.io/badge/-zhongye@e.gzhu.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](https://zhongye@e.gzhu.edu.cn)
 
 
  / Open Source Organization
