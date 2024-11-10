@@ -2,8 +2,9 @@
 ## 这里是广州大学193号工作站！📋
 
 
-[![WeChat](https://img.shields.io/badge/-GZHU--program-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
-[![email](https://img.shields.io/badge/-zhongye@e.gzhu.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](https://zhongye@e.gzhu.edu.cn)
+[![BLOG](https://img.shields.io/badge/-zhongye's-BLOG--program-black?labelColor=black&logoColor=white&style=flat-square)](https://zhongye1.github.io/)
+[![Email](https://img.shields.io/badge/-zhongye@e.gzhu.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](zhongye@e.gzhu.edu.cn)
+
 
 
  / Open Source Organization
