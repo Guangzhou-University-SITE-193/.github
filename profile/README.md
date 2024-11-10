@@ -95,7 +95,8 @@ RSS订阅: https://zhongye1.github.io/atom.xml
 
 ### 加入我们！
 
-https://github.com/Guangzhou-University-SITE-193
+联系站长QQ2760913192
+或发送邮件至2760913192@qq.com来加入组织！
 
 我们正在筹备校园站点的建设计划！
 
