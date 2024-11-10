@@ -1,38 +1,33 @@
 ## This is @Guangzhou-University-SITE-193!📋
+
 ## 这里是广州大学193号工作站！📋
 
+[![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
+[![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
+[![Email](https://img.shields.io/badge/网站-GZHU.site.193-cyan.svg)](zhongye@e.gzhu.edu.cn)
 
-[![BLOG](https://img.shields.io/badge/-zhongye's-BLOG--program-black?labelColor=black&logoColor=white&style=flat-square)](https://zhongye1.github.io/)
-[![Email](https://img.shields.io/badge/-zhongye@e.gzhu.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](zhongye@e.gzhu.edu.cn)
+
+ */ Open Source Organization from Guangzhou-University*
 
 
-
- / Open Source Organization
 
 ### ⚒ Skills
 
 🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
 
-### 🔥 Achievement
 
-[![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
-[![Spark Lab S1 #1 Place](https://spark-lab.city/api/badge?session=1&prize=1)](https://spark-lab.city)
 
-[![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
-
-### 🍉 Tech Stack
+### 📋 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
 
-### 🔨 Tools I Use
+### 🔨 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
-### 🍏 Contribution
+### 📋 成员
 
-[![zmh-program's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zmh-program)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
 
-### 🙌 Relation Ship
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
-- [LightXi Inc.](https://github.com/LightXi) (Co-Founder & CTO)
-- [Sh1n3zZ](https://github.com/Sh1n3zZ) (Girl Friend)
