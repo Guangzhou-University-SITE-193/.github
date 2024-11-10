@@ -10,11 +10,9 @@
  */ Open Source Organization from Guangzhou-University*
 
 
-
 ### ⚒ Skills
 
 🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
-
 
 
 ### 📋 Tech Stack
@@ -24,6 +22,13 @@
 ### 🔨 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+
+### This is our site: GZHU-SITE-193!
+
+![SITEPOST](https://free-img.400040.xyz/4/2024/11/08/672d6814126cd.jpg)
+
+
+
 
 ## Contributors 📋
 
@@ -79,3 +84,8 @@ Thanks goes to these wonderful people:
     </tr>
   </table>
 </div>
+
+
+### 关注站长博客！
+友链 https://zhongye1.github.io
+RSS订阅: https://zhongye1.github.io/atom.xml
