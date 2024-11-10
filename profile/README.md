@@ -29,13 +29,11 @@
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-## 贡献者
-
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Zhongye1">
+        <a https://github.com/Zhongye1">
           <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" width="100" height="100" />
           <br />
           <strong>Gotoh Hitori</strong>
