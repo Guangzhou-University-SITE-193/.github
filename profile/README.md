@@ -97,6 +97,47 @@ Thanks goes to these wonderful people:
       </td>
     </tr>
   </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PixelTime24">
+        <img src="https://github.com/PixelTime24.png?size=100" alt="PixelTime24" width="100" height="100" />
+        <br />
+        <strong>PixelTime24</strong>
+        <br />
+        <em>GitHub: <a href="https://github.com/PixelTime24">@PixelTime24</a></em>
+        <br />
+        Contributions: Documentation 📖
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/XingJi-love">
+        <img src="https://github.com/XingJi-love.png?size=100" alt="XingJi-love" width="100" height="100" />
+        <br />
+        <strong>XingJi-love</strong>
+        <br />
+        <em>GitHub: <a href="https://github.com/XingJi-love">@XingJi-love</a></em>
+        <br />
+        Contributions: Documentation 📖
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yinghuahua99">
+        <img src="https://github.com/yinghuahua99.png?size=100" alt="yinghuahua99" width="100" height="100" />
+        <br />
+        <strong>yinghuahua99</strong>
+        <br />
+        <em>GitHub: <a href="https://github.com/yinghuahua99">@yinghuahua99</a></em>
+        <br />
+        Contributions: Documentation 📖
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+  
 </div>
 
 
