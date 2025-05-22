@@ -1,7 +1,5 @@
 ## This is @Guangzhou-University-SITE-193!📋
 
-## 这里是广州大学193号工作站！📋
-
 [![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
 [![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
 [![Email](https://img.shields.io/badge/网站-GZHU.site.193-cyan.svg)](zhongye@e.gzhu.edu.cn)
@@ -12,16 +10,16 @@
 
 ### ⚒ Skills
 
-🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
+🥪 **Front End** / 🥗 **Backend** / 🍑 **Machine Learning**
 
 
 ### 📋 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,react,next,vue,express,tailwindcss,bootstrap,html,css,js,jquery,ts,fastapi,django,flask,qt,electron,tauri,threejs)](https://skillicons.dev)
 
 ### 🔨 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,kubernetes,nginx,git,npm,pnpm,yarn,cmake,anaconda,github,githubactions,figma,cloudflare,vercel,windows,ubuntu,debian,arch)](https://skillicons.dev)
 
 
 ### 💻This is our site: GZHU-SITE-193!
@@ -98,6 +96,7 @@ Thanks goes to these wonderful people:
     </tr>
   </table>
 
+
 <table>
   <tr>
     <td align="center">
@@ -134,21 +133,23 @@ Thanks goes to these wonderful people:
       </a>
     </td>
 
+
   </tr>
 </table>
 
-  
+
 </div>
 
 
 ### 关注站长博客！
+
 友链 https://zhongye1.github.io
 RSS订阅: https://zhongye1.github.io/atom.xml
 
 ### 加入我们！
 
 联系站长QQ2760913192
-或发送邮件至2760913192@qq.com来加入组织！
+发送邮件至2760913192@qq.com加入组织！
 
-我们正在筹备校园站点的建设计划！
+筹建中
 
